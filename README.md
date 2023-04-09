@@ -4,4 +4,4 @@
 	<center><h1 style="color:red; font-size:60px;">ВВП ПМР</h1></center>
 	<p>vv</p>
 </head>
-<body style="background-color: black
+<body style="background-color: black";>
